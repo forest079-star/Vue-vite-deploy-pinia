@@ -23,7 +23,7 @@ git commit -m 'deploy'
 # if you are deploying to https://forest079-star.github.io
 # git push -f git@github.com:forest079-star/forest079-star.github.io.git main
 
-# if you are deploying to https://forest079-star.github.io/vite-deploy-sample
-git push -f https://github.com/forest079-star/vite-deploy-sample.git main:gh-pages
+# if you are deploying to https://github.com/forest079-star/vite-deploy-pinia
+git push -f https://github.com/forest079-star/vite-deploy-pinia.git main:gh-pages
 
 cd -
